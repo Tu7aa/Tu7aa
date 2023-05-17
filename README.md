@@ -1,6 +1,7 @@
 ### Hi there i'm ahmed abdallah 👋
 Mobile Application Developer (Flutter)
-https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0
+![image](https://github.com/Tu7aa/Tu7aa/assets/105240376/6611baf3-a565-4877-865d-421e18a8ba13)
+
 
 
 <!--
