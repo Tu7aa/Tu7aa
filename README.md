@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0albpLskYgrwbIlhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi I'm ahmed abdallah 👋</h1>
-<h3 align="center">Mobile Application Developer (Flutter)</h3>
+<h3 align="right">Mobile Application Developer (Flutter)</h3>
 
 <img align ="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
