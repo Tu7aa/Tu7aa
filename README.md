@@ -1,5 +1,8 @@
-### Hi there 👋 i'm ahmed abdallah
+### Hi there i'm ahmed abdallah 👋
 Mobile Application Developer (Flutter)
+
+![image](https://github.com/Tu7aa/Tu7aa/assets/105240376/25b4ca0f-23cc-473c-b567-2e0743d0bd16)
+
 
 <!--
 **Tu7aa/Tu7aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
